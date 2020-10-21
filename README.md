@@ -8,6 +8,8 @@
 - [Brilliant explains QM](https://brilliant.org/wiki/quantum-mechanics/)
 - [Khan explains mathematical basis for understanding QM](https://www.youtube.com/watch?v=fVfp82FpSO8&list=PLdgVBOaXkb9Bv466YnyxslT4gIlSZdtjw)
 - [Khan explains Quantum Physics](https://www.khanacademy.org/science/physics/quantum-physics)
+- [Harmonic Oscillator: The math behind the eigenstates as a harmonic series](https://www.youtube.com/watch?v=St2rEAnUYAg&list=PL4_IZ0OM6KAmJ7h9Uo6fgIf_98SQWKaso&index=1)
+- [The harmonic oscillator explained in text and plots](https://phys.libretexts.org/Courses/Muhlenberg_College/MC%3A_Physics_121_-_General_Physics_I/12%3A_Quantum_Mechanics/12.06%3A_The_Quantum_Harmonic_Oscillator)
 
 ## Music
 
