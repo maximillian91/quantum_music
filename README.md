@@ -16,3 +16,5 @@
 - [TedX on Harmonic Series explained by example on a piano](https://www.youtube.com/watch?v=JDFa8TSn6vY)
 - [2min Music Theory on Harmonic Series](https://www.youtube.com/watch?v=OATjHiOuc70)
 - [Andrew Huang explains Harmonic Series by example using Synths](https://youtu.be/Wx_kugSemfY)
+- [Combination Tones explained short](https://www.youtube.com/watch?v=KWJS_Fzs1j4)
+- [Combination Tones explained long](https://www.youtube.com/watch?v=73_CiAYX00k)
